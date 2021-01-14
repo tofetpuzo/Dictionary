@@ -1,0 +1,15 @@
+pear
+apple
+apple
+apple
+orange
+mandarin
+watermelon
+pomegranate
+
+tomatoes
+tomatoes
+tomatoes
+tomatoes
+tomatoes
+tomatoes
